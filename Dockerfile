@@ -1,8 +1,8 @@
-# Glastopf Dockerfile by MO 
+# Glastopf Dockerfile 
 #
-# VERSION 16.10
+
 FROM ubuntu:16.04 
-MAINTAINER MO 
+MAINTAINER Abhinav 
 
 # Include dist
 ADD dist/ /root/dist/
